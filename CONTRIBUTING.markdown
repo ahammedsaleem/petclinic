@@ -1,4 +1,4 @@
-Contributing to Thymeleaf: Terms and Conditions
+Contributing to Thymeleaf: Terms and Conditio
 ===============================================
 
 ------------------------------------------------------------------------------
